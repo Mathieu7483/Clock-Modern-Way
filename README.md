@@ -1,3 +1,7 @@
+<p align="center"\>
+<img src="https://github.com/Mathieu7483/Clock-Modern-Way/blob/main/a-photorealistic--high-end-studio-shot-of-a-wall-m.png"\>
+</p>
+
 # 🕒 Clock Modern Way
 
 **Clock Modern Way** est une horloge analogique moderne et minimaliste conçue avec les technologies web standards (HTML/CSS/JS). Elle se distingue par une interface épurée affichant non seulement l'heure en temps réel, mais aussi le jour de la semaine, le mois et la date du mois via une disposition radiale dynamique.
@@ -64,6 +68,10 @@ La formule utilisée est la suivante :
 3.  Ouvrez le fichier `horloge.html` dans n'importe quel navigateur moderne (Chrome, Firefox, Edge, Safari).
 
 ---
+## 🕒 Prévisualisation de mon horloge
+<p align="center"\>
+<img src="https://github.com/Mathieu7483/Clock-Modern-Way/blob/main/Capture%20d'%C3%A9cran%202026-04-16%20101954.png"\>
+</p>
 
 ## 👨‍💻 Auteur
 
