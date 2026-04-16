@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clock Modern Way</title>
+    <link rel="stylesheet" href="horloge.css">
+</head>
+<body>
+    <h1>Clock Modern Way</h1>
+    
+    <div class="clock-container">
+        <!-- Anneaux -->
+        <div class="ring ring-hours">
+            <div class="numbers" id="hours-numbers"></div>
+        </div>
+        <div class="ring ring-minutes">
+            <div class="days" id="days"></div>
+        </div>
+        <div class="ring ring-seconds">
+            <div class="months" id="months"></div>
+        </div>
+        <div class="ring ring-center">
+            <!-- Aiguilles -->
+            <div class="hand hand-hours" id="hand-hours"></div>
+            <div class="hand hand-minutes" id="hand-minutes"></div>
+            <div class="hand hand-seconds" id="hand-seconds"></div>
+            <div class="center-dot"></div>
+        </div>
+    </div>
+
+    <script src="horloge.js"></script>
+</body>
+</html>
