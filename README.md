@@ -70,7 +70,7 @@ La formule utilisée est la suivante :
 ---
 ## 🕒 Prévisualisation de mon horloge
 <p align="center"\>
-<img src="https://github.com/Mathieu7483/Clock-Modern-Way/blob/main/Capture%20d'%C3%A9cran%202026-04-16%20101954.png"\>
+<img src="https://github.com/Mathieu7483/Clock-Modern-Way/blob/main/Capture%20d'%C3%A9cran%20horloge.png"\>
 </p>
 
 ## 👨‍💻 Auteur
